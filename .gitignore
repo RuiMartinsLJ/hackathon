@@ -1,0 +1,4 @@
+raw_data/*
+data/views.csv
+cleanup_script.py
+drop_new_items.py
