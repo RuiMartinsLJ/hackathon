@@ -9,8 +9,7 @@ You have data from the past year and a selection of our users can you create a m
 
 The submitted file should be a `.csv` that has one column
 
-- person_id -> ID of the person
-- has_applied -> Probability of applying
+- person_id -> With the ids of the people that have applied
 
 The score should be based on the F1 score when comparing the submitted IDs with what actually happened
 
